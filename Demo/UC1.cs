@@ -13,7 +13,8 @@ namespace Demo
             static void Main(string[] args)
             {
             UC1 Myobj = new UC1();
-            Myobj.MyMethodUC2();
+            UC2 Myobjj = new UC2();
+            UC2.MyMethodUC2();
             UC1.MyMethodUC1();
                 
             }
