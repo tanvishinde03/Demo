@@ -16,6 +16,8 @@ namespace Demo
             UC2 Myobjj = new UC2();
             UC2.MyMethodUC2();
             UC1.MyMethodUC1();
+            UC3 Myobjjj = new UC3();
+            UC3.MyMethodUC3();
                 
             }
 
